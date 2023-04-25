@@ -1,0 +1,19 @@
+[
+    {
+        "id_departamento": "1",
+        "nome": "Centro de Dados",
+        "sigla": "CPD"    
+    },
+    {
+        "id_departamento": "2",
+        "nome": "Financeiro",
+        "sigla": "FIN"    
+    },
+    {
+        "id_departamento": "3",
+        "nome": "Mockao",
+        "sigla": "Mock  mock Mock  mock Mock  mock Mock  mock Mock  mock "    
+    }
+    
+    
+]
